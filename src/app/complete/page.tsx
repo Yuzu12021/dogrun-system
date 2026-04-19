@@ -1,7 +1,7 @@
 'use client';
 
 import { Suspense } from 'react';
-import CompleteContent from './CompleteContent';
+import CompleteContent from './completeContent';
 
 export default function CompletePage() {
   return (
